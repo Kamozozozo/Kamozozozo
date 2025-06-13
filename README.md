@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamozozozo](https://github.com/Kamozozozo)
 
-- 💬 Ask me about **react,javascript,python and ML**
+- 💬 Ask me about **react,javascript,python and Java and ML**
 
 - 📫 How to reach me **kamozozobaete@gmail.com**
 
