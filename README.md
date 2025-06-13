@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **spring Boot,**
 
-- 🤝 I’m looking for help with **.net**
+- 🤝 I’m looking for help with **BlockXAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamozozozo](https://github.com/Kamozozozo)
 
 - 💬 Ask me about **react,javascript,python and ML**
 
-- 📫 How to reach me **kamozozobaete@gmail.xom**
+- 📫 How to reach me **kamozozobaete@gmail.com**
 
 - ⚡ Fun fact **I am a viber**
 
