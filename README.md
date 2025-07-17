@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kamozozobaete@gmail.com**
 
-- ⚡ Fun fact **I am a viber**
+- ⚡ Fun fact **I am a None viber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
