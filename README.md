@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamogelo</h1>
 <h3 align="center">A passionate full stack developer from South African </h3>
-<h2 align="center">"Coding is not just a vibe also a life style" by <span font="bold">Kamogelo</span></h2>
+<h2 align="center">"Coding is not just a vibe ,but it is also a life style" by <span font="bold">Kamogelo</span></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamozozozo&label=Profile%20views&color=0e75b6&style=flat" alt="kamozozozo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamozozozo" alt="kamozozozo" /></a> </p>
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [A P2P](https://github.com/Kamozozozo/PayItForwad)
 
-- 🌱 I’m currently learning **spring Boot,**
-
+- 🌱 I’m currently learning **.Net and ML**
+- 😎 Favourite Backeng Framework  **Spring Boot**
 - 🤝 I’m looking for help with **BlockXAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamozozozo](https://github.com/Kamozozozo)
 
-- 💬 Ask me about **react,javascript,python ,Java and ML**
+- 💬 Ask me about **react,javascript,python ,Java and ML,Blockchain**
 
 - 📫 How to reach me **kamozozobaete@gmail.com**
 
