@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.Net and ML**
 - 😎 Favourite Backend Framework  **Spring Boot**
-- 🤝 I’m looking for help with **BlockXAI**
+- 🤝 I’m looking for help with **BlockXAI and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamozozozo](https://github.com/Kamozozozo)
 
