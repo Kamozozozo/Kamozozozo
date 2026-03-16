@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on [A P2P](https://github.com/Kamozozozo/PayItForwad)
 
 - 🌱 I’m currently learning **.Net and ML**
-- 😎 Favourite Backend Framework  **Spring Boot**
-- 🤝 I’m looking for help with **BlockXAI and Java**
+- 😎 Favourite Backend Framework  **Spring Boot and Java**
+- 🤝 I’m looking for help with **BlockXAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamozozozo](https://github.com/Kamozozozo)
 
